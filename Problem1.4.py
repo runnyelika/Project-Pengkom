@@ -12,4 +12,4 @@ print("Kelas "+str(f)+" - Fisika")
 print("kelas "+str(k)+" - Kimia")
 
 print()
-print("Powered by Hughie")
+print("Powered by Hughielika")
